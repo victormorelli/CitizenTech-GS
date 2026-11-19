@@ -27,10 +27,12 @@ Ao tocar em uma categoria, a lista principal é recomposta automaticamente.
 
 ## Prints das telas
 
-![Tela inicial](<img width="1080" height="2340" alt="Screenshot_20261119_130222" src="https://github.com/user-attachments/assets/8a959005-5e90-4273-bcec-854909001226" />
-)
-![Lista filtrada-Educação](<img width="1080" height="2340" alt="Screenshot_20261119_130239" src="https://github.com/user-attachments/assets/a7ef93d1-9c26-4310-aa88-292c7f06a97c" />
-)
+![Tela inicial]
+<img width="1080" height="2340" alt="Screenshot_20261119_130222" src="https://github.com/user-attachments/assets/8a959005-5e90-4273-bcec-854909001226" />
+
+![Lista filtrada-Educação]
+<img width="1080" height="2340" alt="Screenshot_20261119_130239" src="https://github.com/user-attachments/assets/a7ef93d1-9c26-4310-aa88-292c7f06a97c" />
+
 
 ## Fonte dos dados
 Repositório em memória (`InMemorySolucaoRepository`), sem API ou banco de dados.
